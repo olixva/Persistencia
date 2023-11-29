@@ -48,7 +48,6 @@ public class Main {
             out.writeObject(matricula2);
 
             FileInputStream fin = new FileInputStream("prueba");
-            Object
         } catch (FileNotFoundException e) {
             
             e.printStackTrace();
